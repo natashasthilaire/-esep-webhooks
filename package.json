@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/natashasthilaire/-esep-webhooks/issues"
   },
-  "homepage": "https://github.com/natashasthilaire/-esep-webhooks#readme"
+  "homepage": "https://github.com/natashasthilaire/-esep-webhooks#readme",
+  "keywords": []
 }
