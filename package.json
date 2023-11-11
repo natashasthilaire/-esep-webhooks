@@ -16,5 +16,8 @@
     "url": "https://github.com/natashasthilaire/-esep-webhooks/issues"
   },
   "homepage": "https://github.com/natashasthilaire/-esep-webhooks#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "aws-xray-sdk": "^3.5.3"
+  }
 }
